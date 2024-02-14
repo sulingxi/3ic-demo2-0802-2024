@@ -1,4 +1,3 @@
-1
 # Consegne [User]
 Tutti i lavori di programmazione vanno consegnati in questo repository, **anche se già consegnati con altre modalità**. Nel consegnare i lavori, inserire una cartella per ogni consegna seguendo la convenzione per i nomi indicata nella sezione [Legenda](#legenda) sotto.
 
